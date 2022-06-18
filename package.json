@@ -1,5 +1,5 @@
 {
-  "name": "ligter-core",
+  "name": "lighter-core",
   "version": "1.0.0",
   "description": "core library for lighter",
   "main": "src/index.js",
